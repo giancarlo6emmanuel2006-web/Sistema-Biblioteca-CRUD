@@ -1,0 +1,52 @@
+1|Cien anos de soledad|Gabriel Garcia Marquez|Sudamericana|1967|1|Realismo magico|1111
+2|Don Quijote de la Mancha|Miguel de Cervantes|Espasa|1605|1|Novela|2222
+3|La sombra del viento|Carlos Ruiz Zafon|Planeta|2001|1|Misterio|3333
+4|Rayuela|Julio Cortazar|Sudamericana|1963|1|Ficcion|4444
+5|Pedro Paramo|Juan Rulfo|Fondo de Cultura Economica|1955|1|Realismo magico|5555
+6|El tunel|Ernesto Sabato|Sur|1948|1|Psicologica|6666
+7|1984|George Orwell|Secker & Warburg|1949|1|Distopia|7777
+8|Fahrenheit 451|Ray Bradbury|Ballantine Books|1953|1|Ciencia ficcion|8888
+9|Crónica de una muerte anunciada|Gabriel Garcia Marquez|Oveja Negra|1981|1|Crimen|9999
+10|El amor en los tiempos del colera|Gabriel Garcia Marquez|Oveja Negra|1985|1|Romance|11110
+11|El Aleph|Jorge Luis Borges|Emece|1949|1|Ficcion|12221
+12|Ensayo sobre la ceguera|Jose Saramago|Alfaguara|1995|1|Drama|13332
+13|La tregua|Mario Benedetti|Arca|1960|1|Romance|14443
+14|El viejo y el mar|Ernest Hemingway|Charles Scribners Sons|1952|1|Aventura|15554
+15|Los detectives salvajes|Roberto Bolano|Anagrama|1998|1|Ficcion|16665
+16|El principito|Antoine de Saint Exupery|Reynal & Hitchcock|1943|1|Infantil|17776
+17|Dracula|Bram Stoker|Archibald Constable|1897|1|Terror|18887
+18|Frankenstein|Mary Shelley|Lackington|1818|1|Terror|19998
+19|La metamorfosis|Franz Kafka|Kurt Wolff Verlag|1915|1|Ficcion|21109
+20|El perfume|Patrick Suskind|Diogenes|1985|1|Suspenso|22220
+21|Los miserables|Victor Hugo|A. Lacroix|1862|1|Historica|23331
+22|Madame Bovary|Gustave Flaubert|Revue de Paris|1856|1|Drama|24442
+23|Crimen y castigo|Fiodor Dostoyevski|The Russian Messenger|1866|1|Psicologica|25553
+24|El lobo estepario|Hermann Hesse|S. Fischer Verlag|1927|1|Filosofica|26664
+25|Siddhartha|Hermann Hesse|S. Fischer Verlag|1922|1|Filosofica|27775
+26|Demian|Hermann Hesse|S. Fischer Verlag|1919|1|Psicologica|28886
+27|Orgullo y prejuicio|Jane Austen|T. Egerton|1813|1|Romance|29997
+28|Emma|Jane Austen|John Murray|1815|1|Romance|31108
+29|Rebelion en la granja|George Orwell|Secker & Warburg|1945|1|Fabula|32219
+30|La insoportable levedad del ser|Milan Kundera|Gallimard|1984|1|Filosofica|33330
+31|Un mundo feliz|Aldous Huxley|Chatto & Windus|1932|1|Distopia|34441
+32|La Nausea|Jean-Paul Sartre|Gallimard|1938|1|Existencialismo|35552
+33|El extranjero|Albert Camus|Gallimard|1942|1|Existencialismo|36663
+34|El proceso|Franz Kafka|Verlag Die Schmiede|1925|1|Ficción|37774
+35|La carretera|Cormac McCarthy|Alfred A. Knopf|2006|1|Postapocalíptica|38885
+36|It|Stephen King|Viking|1986|1|Terror|39996
+37|Carrie|Stephen King|Doubleday|1974|1|Terror|41107
+38|Misery|Stephen King|Viking|1987|1|Suspenso|42218
+39|El resplandor|Stephen King|Doubleday|1977|1|Terror|43329
+40|La torre oscura|Stephen King|Grant|1982|1|Fantasia|44440
+41|El nombre del viento|Patrick Rothfuss|DAW Books|2007|1|Fantasia|45551
+42|Juego de tronos|George R. R. Martin|Bantam Books|1996|1|Fantasia|46662
+43|Choque de reyes|George R. R. Martin|Bantam Books|1998|1|Fantasia|47773
+44|Tormenta de espadas|George R. R. Martin|Bantam Books|2000|1|Fantasia|48884
+45|Festin de cuervos|George R. R. Martin|Bantam Books|2005|1|Fantasia|49995
+46|Danza de dragones|George R. R. Martin|Bantam Books|2011|1|Fantasia|5000
+47|El codigo Da Vinci|Dan Brown|Doubleday|2003|1|Suspenso|51116
+48|Las cronicas de Narnia|C.S. Lewis|Geoffrey Bles|1950|1|Fantasia|52227
+49|Matar a un ruiseñor|Harper Lee|J. B. Lippincott|1960|1|Drama|53338
+50|El guardian entre el centeno|J.D. Salinger|Little, Brown|1951|15|Literatura juvenil|54449
+51|Tuki Prime|JL PRIME|Santizo|2010|2025|Accion|11112
+52|El Principe de Persia|Ubisoft|Santa Monica Estudio|2016|2025|Accion|2205
